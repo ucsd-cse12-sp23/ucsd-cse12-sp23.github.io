@@ -49,7 +49,7 @@ Videos (to watch **after** your problem session on September 23):
 
 ## Notes & Files from Pre-Lecture Videos
 
-[Pre-Lecture 1](https://github.com/ucsd-cse12-f22/ucsd-cse12-sp23.github.io/tree/main/_pre-lectures/lecture-01){:target="_blank"}
+[Pre-Lecture 1](https://github.com/ucsd-cse12-sp23/ucsd-cse12-sp23.github.io/tree/main/_pre-lectures/lecture-01){:target="_blank"}
 
 ## Handout
 
