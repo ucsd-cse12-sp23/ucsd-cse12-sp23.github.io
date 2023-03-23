@@ -75,29 +75,10 @@ There is some useful advice at [Enrolling in CSE
 Courses](https://cse.ucsd.edu/undergraduate/courses/enrolling-cse-courses){:target="_blank"} that
 likely summarizes a lot of what they would tell you to get you started.
 
-**Will the course be in-person or remote? Is attendance required?**
-
-The content of the course is primarily delivered through an online textbook and
-through pre-recorded videos from the instructors. The synchronous sessions are
-for problem-solving with your classmates and Q&A with the instructional team.
-In each session, you will work in pairs or small groups on problems that we
-provide and we will go over them as a group.
-
-Attendance is not required, but is highly recommended. Studies (by UCSD faculty)
-have shown that attendance and participation in lecture leads to better
-student performance and higher grades.
-
-All of the exams, including the **final exam**, will be in-person. The **midterm
-exams** will be held during lecture time. Students must attend their scheduled lecture
-on those days. Students will be required to take the final exam during the 
-scheduled block, the location will be posted in Week 10.
-
-Note: there are **no** online exams. All exams must be taken **in-person**.
-
 **What's the course material like?**
 
 You can see a [previous version of the
-course](https://ucsd-cse12-sp22.github.io/){:target="_blank"}, which will give you a sense. This
+course](https://ucsd-cse12-f22.github.io/){:target="_blank"}, which will give you a sense. This
 offering will not be identical, but will be similar.
 
 There is no required textbook for you to purchase for the course. The course uses a combination of online resources and notes from the instructors.
@@ -109,15 +90,9 @@ community member, you can view all the podcasts for the problem sessions at
 [https://podcast.ucsd.edu/](https://podcast.ucsd.edu/). Beyond that we don't
 have any formalized support for auditing the course.
 
-**What if I have enrolled in CSE12 but won't be able to be in La Jolla for most
-or all of Fall 2022?**
-
-If the attendance policy above doesn't address your situation, please contact
-`g2miranda@eng.ucsd.edu`.
-
 **Do we need a clicker for this class?**
 
-No.
+No. We use Gradescope to collect worksheets for lecture participation credit.
 
 **Where are the icons from?**
 
