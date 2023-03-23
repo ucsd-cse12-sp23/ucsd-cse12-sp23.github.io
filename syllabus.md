@@ -247,7 +247,7 @@ on academic integrity as well.
 Do not post your PA solutions publicly on any site, including Github. If you fork the Github starter code repos
 and upload your code to the repo, you are required to make the repo private. It is an academic integrity
 violation to publicly post your code. This remains true even after the course is over. If you with to 
-share the code with an employer in the future, upload the code to Google Drive or Dropbox and share
+share the code wish an employer in the future, upload the code to Google Drive or Dropbox and share
 the link to the folder.
 
 <a id="g:exams"></a>
