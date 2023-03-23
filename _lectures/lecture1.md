@@ -23,8 +23,8 @@ Session plan:
 - 35 min: syllabus
     - Problem Solving Sessions, videos
     - Lecture Participation
-    - Stepik
-    - Programming
+    - Stepik Exercises
+    - Programming Assignments
     - Exams
     - Getting Help
     - Schedule
