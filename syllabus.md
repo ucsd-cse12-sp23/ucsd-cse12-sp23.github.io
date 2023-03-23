@@ -65,12 +65,13 @@ You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu]
 
 Since these lectures may be mostly student discussion, the recordings are mostly 
 an archive of any live demos that come up rather than a presentation of core content.
+It can be helpful to watch the first few minutes of each lecture to see any
+annoucements. Not all annoucements are made on Piazza.
 
-Starting with the second lecture, we will take attendance during lecture (except exams). You must attend at least 20 lectures to earn full credit for lecture particpation. To receive credit for attending, you must make sure to check-in during lecture (check-ins will happen at random times in the middle of the lecture), we will not accept any check-ins after lecture and credit for attendance will not be given retroactively. The correct code of the lecture must be used or credit will not be given for 
-attending the lecture.
+Starting with the second lecture, we will take attendance during lecture (except exams). You must attend at least 20 lectures to earn full credit for lecture particpation. To receive credit for attending, you must make sure to check-in during lecture (check-ins will happen at random times in the middle of the lecture), we will not accept any check-ins after lecture and credit for attendance will not be given retroactively. The correct code for the lecture (given by the instructor during lecture) must be used or credit will not be given for attending the lecture.
 
 Attendance check-ins will be handled through Gradescope therefore it’s highly recommended to download the Gradescope mobile app to your phone so you can upload your worksheets. Otherwise, you will need to hand-in your worksheets to the instructor after
-lecture and come to office hours to get them back. Do not leave the lecture hall until your file has uploaded. If the file has not uploaded by the end of lecture, hand-in the worksheet before you or the instructor leaves the room.
+lecture and come to office hours to get them back. If the file has not uploaded by the end of lecture, hand-in the worksheet before you or the instructor leaves the room. We will not accpet any worksheets once Gradescope closes (10 minutes after the lecture is scheduled to end) and the instructor leaves the room.
 
 <h3>Discussion</h3>
 
@@ -131,6 +132,11 @@ Each student gets a free “slip day” for each programming assignment (PA) tha
 extension to submit the PA. You do not have to ask to use your slip day. Just submit your 
 assignment after the deadline (but before 24 hours after the deadline) to automatically use your 
 slip day. There is no penalty for using this free slip day. 
+
+It's the student's responsibilty to check that the autograder worked and that all files
+have been properly uploaded (by checking the Code tab). We only accept PAs through
+Gradescope before the slip-day deadline. We will not accept any files through email or
+Piazza.
 
 <a id="p:open-closed"></a>
 <h3>Collaboration</h3>
