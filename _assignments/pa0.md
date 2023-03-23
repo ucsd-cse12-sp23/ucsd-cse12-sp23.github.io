@@ -77,7 +77,7 @@ A new window will pop up, hopefully showing that the JRE library under *Modulepa
 
 Now, the errors highlighted on the code editor should disappear and your program should run properly. If this does not resolve your issue or there are more issues, please visit tutor hours.
 
-## Running through the ieng6 Server or through the Terminal
+## Running through the Terminal
 Alternatively, if you would like to use a plain text editor (i.e. vim, Atom, NotePad, VSCode etc.) and a terminal, you can compile and run the code using the following commands. This is also an option for you if you cannot install anything on your personal computer, such as a Chromebook. Note: make sure when you run the command in the same directory where the file is located. In this case, that would be the `pa0-starter/src` folder.
 
 Running on Mac/Linux based systems:
@@ -87,9 +87,6 @@ Running on Mac/Linux based systems:
 Running on Windows systems:
 - Compile: `javac HelloWorld.java`
 - Execute: `java HelloWorld`
-
-To use the ieng6 server, we suggest using the UCSD CloudLab (https://cloudlabs.ucsd.edu/). Using CloudLab, you can select a Linux machine and work through a web browser. This is if you would like to run the code through the command line rather than using Eclipse.   
-Basic Instructions: [how to to connect through CloudLab](https://docs.google.com/document/d/1zYHqqMIrAEN4SLo8FCDweHBNpXwFW2chThXNHVtY2gQ/edit?usp=sharing){:target="_blank"}
 
 ## Submitting
 
