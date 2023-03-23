@@ -39,7 +39,7 @@ To do this automatically, we are using a survey in Canvas that every student mus
 After the first lecture, there is one video to watch. You should also familiarize
 yourself with the [syllabus](../syllabus.html).
 
-Videos (to watch **after** your problem session on September 23):
+Videos (to watch **after** lecture):
 
 {% for video in page.videos %}
 [{{ video.title }}]({{ video.url }}){:target="_blank"}
