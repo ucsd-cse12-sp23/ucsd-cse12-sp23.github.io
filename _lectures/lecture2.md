@@ -33,17 +33,12 @@ Videos (to watch **before** your problem session on September 26):
 
 ## Notes & Files from Pre-Lecture Videos
 
-[Pre-Lecture 2](https://github.com/ucsd-cse12-f22/ucsd-cse12-f22.github.io/tree/main/_pre-lectures/lecture-02){:target="_blank"}
+[Pre-Lecture 2](https://github.com/ucsd-cse12-sp23/ucsd-cse12-sp23.github.io/tree/main/_pre-lectures/lecture-02){:target="_blank"}
 
 ## Handout
 
-<iframe src="https://drive.google.com/file/d/1WQw6IJO1o-HgzNpQ8bjpVYkp9qY1Xp37/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/10v-04XdYlVabMqShRJ5yoN9e8LGtTRbV/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Notes & Files from Live-Lecture
 
-[8AM Lecture](https://github.com/ucsd-cse12-f22/ucsd-cse12-f22.github.io/tree/main/_lectures/lecture-02/A00){:target="_blank"}
-
-[9AM Lecture](https://github.com/ucsd-cse12-f22/ucsd-cse12-f22.github.io/tree/main/_lectures/lecture-02/B00){:target="_blank"}
-
-[11AM Lecture](https://github.com/ucsd-cse12-f22/ucsd-cse12-f22.github.io/tree/main/_lectures/lecture-02/C00){:target="_blank"}
-
+[Lecture Notes](https://github.com/ucsd-cse12-sp23/ucsd-cse12-sp23.github.io/tree/main/_lectures/lecture-02){:target="_blank"}
