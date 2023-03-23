@@ -278,7 +278,7 @@ Three examples:
 - &gt=20 lectures attended: You receive 100% for your 10% participation grade and your final exam is now worth 20% of your grade.
 - 0 lectures attended: Your participation portion of your final grade is 0% and your final exam is now worth 30% of your grade.
 - 12 lectures attended: You receive 100% for 6% (60% of 10%) of your final grade for participation. Your final exam is worth 24% (20% + 4%) of your final grade.
-
+test
 <a id="policies"></a>
 ## Policies
 
