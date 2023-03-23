@@ -51,6 +51,10 @@ Videos (to watch **after** your problem session on September 23):
 
 [Pre-Lecture 1](https://github.com/ucsd-cse12-f22/ucsd-cse12-sp23.github.io/tree/main/_pre-lectures/lecture-01){:target="_blank"}
 
-## Notes & Files from Problem Solving Session 
+## Handout
+
+<iframe src="https://drive.google.com/file/d/116uXHVwysfwaJmPqaF9tO1-UYURHIYEC/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Notes & Files from Lecture 
 
 [Lecture Notes](https://github.com/ucsd-cse12-sp23/ucsd-cse12-sp23.github.io/tree/main/_lectures/lecture-01){:target="_blank"}
