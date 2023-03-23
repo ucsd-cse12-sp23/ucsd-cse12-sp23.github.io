@@ -275,7 +275,7 @@ If you participate in at least 20 of lectures after the first lecture (or if you
 you receive 100% for your total participation grade (10% of your entire grade). If you participate in fewer than 20 of lectures (i.e., miss more than 6 lectures), your final exam score replaces that portion of your participation grade.  
 
 Three examples:
-- &gte 20 lectures attended: You receive 100% for your 10% participation grade and your final exam is now worth 20% of your grade.
+- 20 or more lectures attended: You receive 100% for your 10% participation grade and your final exam is now worth 20% of your grade.
 - 0 lectures attended: Your participation portion of your final grade is 0% and your final exam is now worth 30% of your grade.
 - 12 lectures attended: You receive 100% for 6% (60% of 10%) of your final grade for participation. Your final exam is worth 24% (20% + 4%) of your final grade.
 
