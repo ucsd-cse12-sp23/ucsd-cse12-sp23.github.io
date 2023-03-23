@@ -35,7 +35,7 @@ There are a few components to your grade in the course:
 
 - Course engagement activities (Stepik exercises and surveys) (20%)
 - Lecture Participation (10%)
-- Programming assignments (40%)
+- Programming assignments (30%)
 - Exams (40% - 50%)
 
 Letter grades will be assigned based on the following grading scale:
