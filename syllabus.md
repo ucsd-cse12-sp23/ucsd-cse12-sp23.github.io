@@ -68,10 +68,10 @@ an archive of any live demos that come up rather than a presentation of core con
 It can be helpful to watch the first few minutes of each lecture to see any
 annoucements. Not all annoucements are made on Piazza.
 
-Starting with the second lecture, we will take attendance during lecture (except exams). You must attend at least 20 lectures to earn full credit for lecture particpation. To receive credit for attending, you must make sure to check-in during lecture (check-ins will happen at random times in the middle of the lecture), we will not accept any check-ins after lecture and credit for attendance will not be given retroactively. The correct code for the lecture (given by the instructor during lecture) must be used or credit will not be given for attending the lecture.
+Starting with the second lecture, we will take attendance during lecture (except exams). You must attend at least 20 lectures to earn full credit for lecture participation. To receive credit for attending, you must make sure to check-in during lecture (check-ins will happen at random times in the middle of the lecture), we will not accept any check-ins after lecture and credit for attendance will not be given retroactively. The correct code for the lecture (given by the instructor during lecture) must be used or credit will not be given for attending the lecture.
 
 Attendance check-ins will be handled through Gradescope therefore it’s highly recommended to download the Gradescope mobile app to your phone so you can upload your worksheets. Otherwise, you will need to hand-in your worksheets to the instructor after
-lecture and come to office hours to get them back. If the file has not uploaded by the end of lecture, hand-in the worksheet before you or the instructor leaves the room. We will not accpet any worksheets once Gradescope closes (10 minutes after the lecture is scheduled to end) and the instructor leaves the room.
+lecture and come to office hours to get them back. If the file has not uploaded by the end of lecture, hand-in the worksheet before you or the instructor leaves the room. We will not accept any worksheets once Gradescope closes (10 minutes after the lecture is scheduled to end) and the instructor leaves the room.
 
 <h3>Discussion</h3>
 
